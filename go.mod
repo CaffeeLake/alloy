@@ -38,7 +38,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/github/smimesign v0.2.0
 	github.com/githubexporter/github-exporter v0.0.0-20231025122338-656e7dc33fe7
-	github.com/go-git/go-git/v5 v5.11.0
+	github.com/go-git/go-git/v5 v5.13.1
 	github.com/go-kit/log v0.2.1
 	github.com/go-logfmt/logfmt v0.6.0
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible
@@ -179,7 +179,7 @@ require (
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.33.0
 	github.com/tilinna/clock v1.1.0
 	github.com/ua-parser/uap-go v0.0.0-20240611065828-3a4781585db6 // indirect
@@ -245,13 +245,13 @@ require (
 	go.uber.org/goleak v1.3.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/crypto v0.28.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240208163226-62c9f1799c91
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
-	golang.org/x/net v0.30.0
+	golang.org/x/net v0.33.0
 	golang.org/x/oauth2 v0.23.0
-	golang.org/x/sys v0.26.0
-	golang.org/x/text v0.19.0
+	golang.org/x/sys v0.28.0
+	golang.org/x/text v0.21.0
 	golang.org/x/time v0.6.0
 	golang.org/x/tools v0.25.0
 	google.golang.org/api v0.188.0
@@ -382,7 +382,7 @@ require (
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/Microsoft/hcsshim v0.12.5 // indirect
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
-	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
+	github.com/ProtonMail/go-crypto v1.1.3 // indirect
 	github.com/Showmax/go-fqdn v1.0.0 // indirect
 	github.com/Workiva/go-datastructures v1.1.0 // indirect
 	github.com/alecthomas/participle/v2 v2.1.1 // indirect
@@ -452,7 +452,7 @@ require (
 	github.com/containerd/ttrpc v1.2.4 // indirect
 	github.com/coreos/go-semver v0.3.1 // indirect
 	github.com/cpuguy83/dockercfg v0.3.1 // indirect
-	github.com/cyphar/filepath-securejoin v0.3.4 // indirect
+	github.com/cyphar/filepath-securejoin v0.3.6 // indirect
 	github.com/danieljoos/wincred v1.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dennwc/btrfs v0.0.0-20230312211831-a1f570bd01a1 // indirect
@@ -494,7 +494,7 @@ require (
 	github.com/gammazero/deque v0.2.1 // indirect
 	github.com/gavv/monotime v0.0.0-20190418164738-30dba4353424 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
-	github.com/go-git/go-billy/v5 v5.5.0 // indirect
+	github.com/go-git/go-billy/v5 v5.6.1 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
 	github.com/go-kit/kit v0.13.0 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
@@ -520,7 +520,7 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
 	github.com/gogo/status v1.1.1 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/golang-jwt/jwt/v5 v5.2.1 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
@@ -723,13 +723,13 @@ require (
 	github.com/seccomp/libseccomp-golang v0.10.0 // indirect
 	github.com/secure-systems-lab/go-securesystemslib v0.7.0 // indirect
 	github.com/sercand/kuberesolver/v5 v5.1.1 // indirect
-	github.com/sergi/go-diff v1.3.1 // indirect
+	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/shirou/gopsutil/v4 v4.24.9 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/shurcooL/httpfs v0.0.0-20230704072500-f1e31cf0ba5c // indirect
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546 // indirect
-	github.com/skeema/knownhosts v1.2.1 // indirect
+	github.com/skeema/knownhosts v1.3.0 // indirect
 	github.com/snowflakedb/gosnowflake v1.7.2-0.20240103203018-f1d625f17408 // indirect
 	github.com/softlayer/softlayer-go v0.0.0-20180806151055-260589d94c7d // indirect
 	github.com/soheilhy/cmux v0.1.5 // indirect
@@ -800,8 +800,8 @@ require (
 	go4.org/netipx v0.0.0-20230125063823-8449b0a6169f // indirect
 	golang.org/x/arch v0.7.0 // indirect
 	golang.org/x/mod v0.21.0 // indirect
-	golang.org/x/sync v0.8.0
-	golang.org/x/term v0.25.0 // indirect
+	golang.org/x/sync v0.10.0
+	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
